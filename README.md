@@ -1,21 +1,7 @@
-<!-- <a href="https://github.com/Muhammad-Abdullah-Bilal">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
-</a> -->
-
-
 <a href="https://github.com/Muhammad-Abdullah-Bilal">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Abdullah-Bilal&data=followers,repositories,stars,commits&theme=rgb">
 </a>
 
-
-<!-- # Top [6th](https://user-badge.committers.top/pakistan/arhamansari11) Pakistani GitHub Contributor. -->
-<!-- <h1 align="left">
-  Top 
-  <a href="https://user-badge.committers.top/pakistan/arhamansari11">
-    <img src="https://user-badge.committers.top/pakistan/arhamansari11.svg" alt="committers.top badge">
-  </a>
-  th Pakistani Github Contributor.
-</h1> --> 
 ## Hi there I am Muhammad Abdullah Bial👋
 
 <!--
