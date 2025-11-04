@@ -2,6 +2,7 @@
     <img height="auto" width="120%" src="https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Abdullah-Bilal&data=followers,repositories,commits&theme=rgb">
 </a> 
 
+
 <!--
 **Muhammad-Abdullah-Bilal/Muhammad-Abdullah-Bilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,13 +48,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 My Projects
-- 🎯 [Python Assignments Repository](https://github.com/Muhammad-Abdullah-Bilal/Python-Assignments)
-- 💡 [Frontend Practice Projects](https://github.com/Muhammad-Abdullah-Bilal/Frontend-Projects)
-- 🤖 [AI & Data Science Learning Repo](https://github.com/Muhammad-Abdullah-Bilal/AI-Lab-Practical)
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -61,6 +55,8 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah-Bilal&layout=compact&theme=radical)
 
 </div>
+
+
 
 ---
 
