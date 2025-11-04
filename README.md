@@ -3,10 +3,6 @@
 </a> 
 
 
-
-
-
-
 ## Hi there I am Muhammad Abdullah Bial👋
 
 <!--
@@ -23,19 +19,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
  ## Github Stats📈:
 <p align="center">
-    <a href="https://github.com/Muhammad-Abdullah-Bilal">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammad-Abdullah-Bilal&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Abdullah-Bilal&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/arhamansari11">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p> 
 
 
 
  <p align="center">
-   <a href="https://github.com/Muhammad-Abdullah-Bilal"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abdullah-Bilal&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
+   <a href="https://github.com/arhamansari11"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
    </a>  
  </p>
 
